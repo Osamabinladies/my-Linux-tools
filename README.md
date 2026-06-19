@@ -5,3 +5,5 @@ PATHの中身を1行ずつ表示します。
 ## orginalalias
 alias alias lpw='ls -l;pwd;whoami'.
 ディレクトリの中身と場所とユーザーを表示します。
+
+##実はここで編集ができます。
