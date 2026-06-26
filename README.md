@@ -16,3 +16,4 @@ Today also learning Linux.
 find . -type d -name ".git" it looks usefull
 ## What we learned today
 1.We learnd about "systemctl" command and "kill" the process
+and also we learned about firewalld too.
