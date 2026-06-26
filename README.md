@@ -14,3 +14,5 @@ Today also learning Linux.
 
 検索するコマンド
 find . -type d -name ".git" it looks usefull
+## What we learned today
+1.We learnd about "systemctl" command and "kill" the process
