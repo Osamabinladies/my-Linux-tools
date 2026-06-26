@@ -9,3 +9,6 @@ alias alias lpw='ls -l;pwd;whoami'.
 
 ## 実は
 ここで編集ができます。
+
+Today also learning Linux.
+
