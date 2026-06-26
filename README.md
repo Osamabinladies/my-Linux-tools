@@ -13,4 +13,4 @@ alias alias lpw='ls -l;pwd;whoami'.
 Today also learning Linux.
 
 検索するコマンド
-find . -type d -name ".git"
+find . -type d -name ".git" it looks usefull
